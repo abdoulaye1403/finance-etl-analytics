@@ -50,8 +50,7 @@ Automatiser la préparation et l'analyse des données de prêts afin de produire
 ```text
 finance-etl-analytics/
 ├── data/
-│   └── microfinance_donnees_brutes.csv   # Données brutes d'entrée
-├── notebooks/                           # Cahiers d'exploration et d'analyse (.ipynb)
+│   └── microfinance_donnees_brutes.csv   # Données brutes d'entrée                          
 ├── outputs/
 │   └── microfinance_donnees_propre.csv  # Données nettoyées et enrichies
 ├── src/
