@@ -1,0 +1,251 @@
+ID_Emprunteur,Secteur_Activite,Genre,Age,Montant_Pret_XOF,Duree_Mois,Montant_Rembourse_XOF,Statut_Remboursement,Region
+EMP-1000,Agriculture,Femme,60.0,150000,18,150000.0,Remboursé,Bamako
+EMP-1001,Commerce,Femme,48.0,750000,6,342000.0,À jour,Kayes
+EMP-1002,Services,Homme,41.0,500000,12,242000.0,À jour,Sikasso
+EMP-1003,Agriculture,Homme,54.0,500000,18,420000.0,À jour,Sikasso
+EMP-1004,Commerce,Homme,22.0,300000,6,228000.0,À jour,Mopti
+EMP-1005,Services,Femme,32.0,500000,18,306000.0,À jour,Mopti
+EMP-1006,Agriculture,Femme,51.0,500000,18,197000.0,En retard (< 30 j),Kayes
+EMP-1007,Services,Homme,33.0,500000,6,86000.0,En souffrance (> 90 j),Kayes
+EMP-1008,Commerce,Femme,43.0,1000000,12,466000.0,À jour,Ségou
+EMP-1009,Artisanat,Homme,21.0,300000,18,97000.0,En retard (< 30 j),Kayes
+EMP-1010,Agriculture,Homme,37.0,300000,12,243000.0,À jour,Ségou
+EMP-1011,Agriculture,Homme,24.0,300000,18,223000.0,À jour,Bamako
+EMP-1012,Agriculture,Femme,25.0,150000,12,131000.0,À jour,Sikasso
+EMP-1013,Artisanat,Homme,24.0,300000,18,149000.0,À jour,Mopti
+EMP-1014,Agriculture,Femme,62.0,300000,12,88000.0,En retard (< 30 j),Ségou
+EMP-1015,Commerce,Femme,36.0,300000,12,269000.0,À jour,Mopti
+EMP-1016,Commerce,Femme,45.0,300000,18,110000.0,En retard (< 30 j),Kayes
+EMP-1017,Agriculture,Femme,62.0,300000,12,156000.0,À jour,Bamako
+EMP-1018,Commerce,Femme,22.0,300000,12,300000.0,Remboursé,Ségou
+EMP-1019,Services,Femme,61.0,150000,6,97000.0,À jour,Sikasso
+EMP-1020,,Homme,37.0,500000,6,75000.0,En souffrance (> 90 j),
+EMP-1021,Agriculture,Homme,47.0,300000,18,204000.0,À jour,Bamako
+EMP-1022,Agriculture,Femme,32.0,150000,24,62000.0,À jour,Mopti
+EMP-1023,Commerce,Femme,30.0,500000,12,41000.0,En souffrance (> 90 j),Sikasso
+EMP-1024,,Femme,34.0,150000,6,1000.0,En souffrance (> 90 j),Bamako
+EMP-1025,Services,Femme,32.0,150000,12,69000.0,À jour,Sikasso
+EMP-1026,Agriculture,Femme,24.0,150000,24,61000.0,En retard (< 30 j),Sikasso
+EMP-1027,Agriculture,Homme,47.0,150000,24,89000.0,À jour,Sikasso
+EMP-1028,Commerce,Femme,56.0,300000,12,184000.0,À jour,Ségou
+EMP-1029,Commerce,Homme,59.0,150000,24,65000.0,À jour,Ségou
+EMP-1030,Artisanat,Femme,41.0,750000,12,218000.0,En retard (< 30 j),Bamako
+EMP-1031,Commerce,Femme,31.0,150000,6,131000.0,À jour,Sikasso
+EMP-1032,Commerce,Homme,25.0,1500000,24,1327000.0,À jour,Bamako
+EMP-1033,Commerce,Femme,49.0,300000,6,214000.0,À jour,Sikasso
+EMP-1034,Agriculture,Homme,50.0,300000,6,71000.0,En retard (< 30 j),Sikasso
+EMP-1035,Commerce,Femme,50.0,750000,12,666000.0,À jour,Sikasso
+EMP-1036,Commerce,Femme,44.0,300000,18,19000.0,En souffrance (> 90 j),Kayes
+EMP-1037,Commerce,Femme,29.0,500000,12,154000.0,En retard (< 30 j),Sikasso
+EMP-1038,Agriculture,Homme,41.0,500000,12,402000.0,À jour,Sikasso
+EMP-1039,Commerce,Femme,53.0,750000,12,750000.0,Remboursé,Sikasso
+EMP-1040,Services,Femme,54.0,300000,12,69000.0,En retard (< 30 j),Mopti
+EMP-1041,Agriculture,Femme,51.0,1000000,18,516000.0,À jour,Mopti
+EMP-1042,Agriculture,Homme,23.0,150000,12,102000.0,À jour,Ségou
+EMP-1043,Agriculture,Homme,59.0,300000,6,200000.0,À jour,Sikasso
+EMP-1044,Agriculture,Femme,56.0,500000,12,232000.0,En retard (< 30 j),Mopti
+EMP-1045,Agriculture,Homme,47.0,300000,12,300000.0,Remboursé,Ségou
+EMP-1046,Commerce,Femme,64.0,300000,18,115000.0,En retard (< 30 j),Bamako
+EMP-1047,Commerce,Homme,41.0,150000,24,150000.0,Remboursé,Sikasso
+EMP-1048,Artisanat,Homme,61.0,500000,12,78000.0,En souffrance (> 90 j),Sikasso
+EMP-1049,Agriculture,Femme,20.0,300000,12,170000.0,À jour,Kayes
+EMP-1050,Agriculture,Homme,55.0,750000,24,352000.0,À jour,Sikasso
+EMP-1051,Services,Homme,22.0,500000,6,215000.0,En retard (< 30 j),Bamako
+EMP-1052,Agriculture,Homme,42.0,750000,18,750000.0,Remboursé,Bamako
+EMP-1053,Commerce,Homme,40.0,300000,12,165000.0,À jour,Mopti
+EMP-1054,Agriculture,Femme,44.0,500000,24,163000.0,En retard (< 30 j),Bamako
+EMP-1055,Commerce,Homme,48.0,300000,6,177000.0,À jour,Bamako
+EMP-1056,Services,Homme,31.0,750000,12,651000.0,À jour,Bamako
+EMP-1057,Commerce,Homme,35.0,750000,6,514000.0,À jour,Sikasso
+EMP-1058,Agriculture,Homme,63.0,500000,24,205000.0,En retard (< 30 j),
+EMP-1059,Commerce,Femme,48.0,300000,6,300000.0,Remboursé,Bamako
+EMP-1060,Commerce,Homme,20.0,300000,12,55000.0,En souffrance (> 90 j),Bamako
+EMP-1061,Commerce,Femme,44.0,500000,6,500000.0,Remboursé,Sikasso
+EMP-1062,,Femme,18.0,750000,24,69000.0,En souffrance (> 90 j),Kayes
+EMP-1063,Agriculture,Homme,50.0,500000,12,448000.0,À jour,Bamako
+EMP-1064,Services,Femme,47.0,500000,12,435000.0,À jour,Ségou
+EMP-1065,Commerce,Femme,64.0,500000,6,371000.0,À jour,Kayes
+EMP-1066,Agriculture,Homme,37.0,500000,6,116000.0,En retard (< 30 j),Sikasso
+EMP-1067,Services,Femme,45.0,500000,12,254000.0,À jour,Sikasso
+EMP-1068,Agriculture,Femme,40.0,150000,12,150000.0,Remboursé,Kayes
+EMP-1069,Agriculture,Homme,57.0,300000,18,243000.0,À jour,Mopti
+EMP-1070,Commerce,Homme,,750000,12,461000.0,À jour,Ségou
+EMP-1071,Agriculture,Femme,56.0,750000,6,307000.0,À jour,Bamako
+EMP-1072,Commerce,Femme,35.0,1000000,6,1000000.0,Remboursé,Mopti
+EMP-1073,Commerce,Femme,55.0,300000,6,123000.0,En retard (< 30 j),Sikasso
+EMP-1074,Agriculture,Homme,59.0,300000,12,109000.0,En retard (< 30 j),Mopti
+EMP-1075,Commerce,Femme,43.0,150000,6,150000.0,Remboursé,
+EMP-1076,Agriculture,Homme,29.0,750000,12,185000.0,En retard (< 30 j),Bamako
+EMP-1077,Agriculture,Homme,64.0,1000000,18,449000.0,À jour,Kayes
+EMP-1078,Artisanat,Homme,46.0,150000,12,43000.0,En retard (< 30 j),Ségou
+EMP-1079,Artisanat,Femme,36.0,150000,6,71000.0,À jour,Mopti
+EMP-1080,Agriculture,Homme,32.0,150000,12,13000.0,En souffrance (> 90 j),Ségou
+EMP-1081,,Homme,28.0,300000,12,116000.0,En retard (< 30 j),Ségou
+EMP-1082,Commerce,Homme,56.0,1500000,24,570000.0,En retard (< 30 j),Ségou
+EMP-1083,Services,Homme,21.0,150000,24,52000.0,En retard (< 30 j),Mopti
+EMP-1084,Agriculture,Femme,58.0,1000000,18,84000.0,En souffrance (> 90 j),Ségou
+EMP-1085,Agriculture,Homme,25.0,750000,18,750000.0,Remboursé,Sikasso
+EMP-1086,Agriculture,Femme,,300000,12,178000.0,À jour,Ségou
+EMP-1087,,Homme,22.0,1000000,12,1000000.0,Remboursé,Ségou
+EMP-1088,Artisanat,Femme,41.0,500000,6,435000.0,À jour,Sikasso
+EMP-1089,Agriculture,Femme,56.0,500000,12,186000.0,En retard (< 30 j),Mopti
+EMP-1090,Commerce,Femme,46.0,500000,12,500000.0,Remboursé,Bamako
+EMP-1091,Services,Homme,50.0,750000,12,449000.0,À jour,Kayes
+EMP-1092,Commerce,Homme,42.0,1000000,12,600000.0,À jour,Kayes
+EMP-1093,Agriculture,Homme,52.0,500000,6,207000.0,En retard (< 30 j),Mopti
+EMP-1094,Commerce,Homme,51.0,150000,6,84000.0,À jour,Ségou
+EMP-1095,Services,Femme,55.0,500000,6,418000.0,À jour,Sikasso
+EMP-1096,Services,Femme,49.0,150000,6,31000.0,En retard (< 30 j),Ségou
+EMP-1097,Commerce,Femme,45.0,500000,24,406000.0,À jour,Ségou
+EMP-1098,Artisanat,Homme,36.0,300000,12,215000.0,À jour,Kayes
+EMP-1099,,Femme,22.0,300000,12,149000.0,À jour,Bamako
+EMP-1100,Services,Femme,39.0,500000,18,429000.0,À jour,Sikasso
+EMP-1101,Agriculture,Femme,41.0,300000,6,128000.0,En retard (< 30 j),Ségou
+EMP-1102,Services,Femme,33.0,300000,12,134000.0,En retard (< 30 j),Kayes
+EMP-1103,Commerce,Femme,44.0,750000,18,69000.0,En souffrance (> 90 j),Mopti
+EMP-1104,,Femme,,750000,12,412000.0,À jour,Sikasso
+EMP-1105,Commerce,Femme,35.0,300000,12,188000.0,À jour,Mopti
+EMP-1106,Commerce,Femme,29.0,500000,12,236000.0,À jour,Bamako
+EMP-1107,Commerce,Homme,47.0,300000,12,167000.0,À jour,
+EMP-1108,Commerce,Femme,40.0,750000,6,578000.0,À jour,Sikasso
+EMP-1109,Commerce,Homme,,500000,12,211000.0,À jour,Ségou
+EMP-1110,Services,Femme,55.0,500000,24,238000.0,En retard (< 30 j),Bamako
+EMP-1111,Commerce,Femme,43.0,750000,12,750000.0,Remboursé,Sikasso
+EMP-1112,Commerce,Femme,31.0,300000,12,120000.0,En retard (< 30 j),Mopti
+EMP-1113,Commerce,Femme,18.0,750000,12,540000.0,À jour,Mopti
+EMP-1114,Services,Femme,62.0,150000,24,120000.0,À jour,Bamako
+EMP-1115,Agriculture,Femme,35.0,300000,18,169000.0,À jour,Bamako
+EMP-1116,Agriculture,Femme,35.0,150000,12,150000.0,Remboursé,Ségou
+EMP-1117,Agriculture,Femme,26.0,150000,12,95000.0,À jour,Bamako
+EMP-1118,Services,Femme,64.0,150000,12,92000.0,À jour,Kayes
+EMP-1119,Commerce,Homme,47.0,300000,12,133000.0,En retard (< 30 j),Mopti
+EMP-1120,Commerce,Homme,46.0,750000,24,564000.0,À jour,
+EMP-1121,Commerce,Homme,23.0,500000,24,500000.0,Remboursé,Mopti
+EMP-1122,Agriculture,Femme,,750000,18,514000.0,À jour,Ségou
+EMP-1123,Services,Homme,36.0,500000,18,500000.0,Remboursé,Ségou
+EMP-1124,Artisanat,Femme,55.0,500000,24,326000.0,À jour,Bamako
+EMP-1125,Artisanat,Homme,46.0,750000,18,230000.0,En retard (< 30 j),Sikasso
+EMP-1126,Agriculture,Femme,30.0,500000,6,312000.0,À jour,Bamako
+EMP-1127,Agriculture,Homme,57.0,500000,12,381000.0,À jour,Mopti
+EMP-1128,Commerce,Femme,37.0,500000,12,388000.0,À jour,Bamako
+EMP-1129,Services,Femme,49.0,500000,6,43000.0,En souffrance (> 90 j),
+EMP-1130,Agriculture,Femme,25.0,300000,12,96000.0,En retard (< 30 j),Ségou
+EMP-1131,Commerce,Homme,55.0,500000,12,396000.0,À jour,Bamako
+EMP-1132,Artisanat,Homme,38.0,500000,12,201000.0,À jour,Mopti
+EMP-1133,Artisanat,Homme,23.0,500000,12,276000.0,À jour,Mopti
+EMP-1134,Commerce,Femme,53.0,300000,12,235000.0,À jour,Mopti
+EMP-1135,Commerce,Femme,18.0,500000,18,248000.0,En retard (< 30 j),Ségou
+EMP-1136,Commerce,Femme,31.0,1000000,12,749000.0,À jour,Bamako
+EMP-1137,Agriculture,Homme,27.0,500000,18,63000.0,En souffrance (> 90 j),Sikasso
+EMP-1138,Agriculture,Homme,64.0,500000,6,230000.0,À jour,Mopti
+EMP-1139,Agriculture,Homme,21.0,500000,12,28000.0,En souffrance (> 90 j),Bamako
+EMP-1140,Commerce,Homme,24.0,500000,18,218000.0,À jour,Mopti
+EMP-1141,Agriculture,Femme,55.0,300000,18,206000.0,À jour,Kayes
+EMP-1142,Agriculture,Femme,57.0,300000,6,204000.0,À jour,Sikasso
+EMP-1143,Agriculture,Femme,60.0,500000,12,259000.0,À jour,Mopti
+EMP-1144,Artisanat,Homme,27.0,150000,6,51000.0,En retard (< 30 j),Bamako
+EMP-1145,Agriculture,Femme,48.0,300000,24,126000.0,À jour,Ségou
+EMP-1146,Commerce,Femme,42.0,1000000,18,795000.0,À jour,Kayes
+EMP-1147,Artisanat,Femme,48.0,500000,18,500000.0,Remboursé,Sikasso
+EMP-1148,Commerce,Homme,36.0,300000,24,153000.0,À jour,Kayes
+EMP-1149,Commerce,Homme,60.0,150000,24,61000.0,En retard (< 30 j),Ségou
+EMP-1150,Artisanat,Homme,51.0,300000,18,146000.0,À jour,Sikasso
+EMP-1151,Agriculture,Homme,23.0,300000,12,121000.0,En retard (< 30 j),Bamako
+EMP-1152,Services,Homme,19.0,1500000,12,1059000.0,À jour,Kayes
+EMP-1153,Agriculture,Homme,26.0,1000000,6,485000.0,À jour,Sikasso
+EMP-1154,Commerce,Homme,52.0,500000,18,228000.0,À jour,Kayes
+EMP-1155,Artisanat,Femme,31.0,500000,12,210000.0,À jour,Sikasso
+EMP-1156,Artisanat,Femme,37.0,150000,12,150000.0,Remboursé,Sikasso
+EMP-1157,Commerce,Femme,23.0,300000,24,120000.0,À jour,Mopti
+EMP-1158,Services,Femme,52.0,500000,12,250000.0,En retard (< 30 j),Bamako
+EMP-1159,Agriculture,Homme,52.0,150000,24,108000.0,À jour,Mopti
+EMP-1160,Agriculture,Homme,38.0,150000,6,94000.0,À jour,Ségou
+EMP-1161,Agriculture,Homme,24.0,500000,18,267000.0,À jour,Sikasso
+EMP-1162,Commerce,Femme,56.0,500000,6,341000.0,À jour,Mopti
+EMP-1163,Services,Homme,60.0,750000,18,241000.0,En retard (< 30 j),Mopti
+EMP-1164,Commerce,Homme,60.0,300000,12,174000.0,À jour,Ségou
+EMP-1165,Agriculture,Homme,34.0,1500000,6,1111000.0,À jour,Ségou
+EMP-1166,Artisanat,Femme,61.0,500000,6,421000.0,À jour,Mopti
+EMP-1167,Agriculture,Homme,29.0,300000,12,300000.0,Remboursé,Mopti
+EMP-1168,Artisanat,Homme,58.0,150000,18,63000.0,En retard (< 30 j),
+EMP-1169,Commerce,Femme,56.0,150000,12,150000.0,Remboursé,Mopti
+EMP-1170,Agriculture,Femme,31.0,500000,18,331000.0,À jour,Ségou
+EMP-1171,Commerce,Femme,32.0,750000,18,319000.0,En retard (< 30 j),Ségou
+EMP-1172,Services,Homme,,300000,12,132000.0,À jour,Sikasso
+EMP-1173,Agriculture,Homme,64.0,500000,24,500000.0,Remboursé,Sikasso
+EMP-1174,Agriculture,Femme,49.0,300000,12,190000.0,À jour,Mopti
+EMP-1175,Artisanat,Femme,54.0,300000,12,300000.0,Remboursé,Bamako
+EMP-1176,Artisanat,Femme,53.0,750000,12,153000.0,En retard (< 30 j),
+EMP-1177,Commerce,Femme,45.0,150000,12,150000.0,Remboursé,Sikasso
+EMP-1178,Services,Femme,35.0,300000,12,123000.0,À jour,Bamako
+EMP-1179,Agriculture,Femme,28.0,300000,12,130000.0,En retard (< 30 j),Sikasso
+EMP-1180,,Homme,30.0,1500000,6,1271000.0,À jour,Sikasso
+EMP-1181,Agriculture,Femme,19.0,750000,12,491000.0,À jour,Bamako
+EMP-1182,Agriculture,Femme,39.0,300000,18,134000.0,À jour,Sikasso
+EMP-1183,Artisanat,Femme,64.0,300000,6,263000.0,À jour,Ségou
+EMP-1184,Services,Femme,45.0,150000,12,150000.0,Remboursé,Kayes
+EMP-1185,Agriculture,Homme,41.0,300000,12,133000.0,À jour,Kayes
+EMP-1186,Agriculture,Femme,20.0,150000,18,132000.0,À jour,Mopti
+EMP-1187,Agriculture,Homme,22.0,300000,6,268000.0,À jour,Mopti
+EMP-1188,Services,Homme,52.0,150000,18,36000.0,En retard (< 30 j),Sikasso
+EMP-1189,Commerce,Femme,63.0,500000,18,360000.0,À jour,Mopti
+EMP-1190,Artisanat,Homme,31.0,150000,24,101000.0,À jour,Sikasso
+EMP-1191,,Homme,54.0,500000,12,357000.0,À jour,Ségou
+EMP-1192,Agriculture,Homme,61.0,500000,12,500000.0,Remboursé,Bamako
+EMP-1193,Agriculture,Homme,,300000,6,211000.0,À jour,Ségou
+EMP-1194,,Femme,39.0,500000,6,436000.0,À jour,
+EMP-1195,Commerce,Femme,42.0,300000,12,226000.0,À jour,Sikasso
+EMP-1196,Agriculture,Femme,18.0,1000000,24,744000.0,À jour,Sikasso
+EMP-1197,Agriculture,Homme,42.0,150000,18,109000.0,À jour,Sikasso
+EMP-1198,Agriculture,Homme,63.0,300000,12,176000.0,À jour,Sikasso
+EMP-1199,Agriculture,Homme,35.0,300000,6,125000.0,À jour,Mopti
+EMP-1200,Agriculture,Femme,21.0,500000,12,250000.0,À jour,Ségou
+EMP-1201,Artisanat,Homme,34.0,750000,6,608000.0,À jour,Ségou
+EMP-1202,Agriculture,Homme,25.0,300000,12,99000.0,En retard (< 30 j),Bamako
+EMP-1203,Agriculture,Homme,21.0,150000,6,131000.0,À jour,Mopti
+EMP-1204,Agriculture,Femme,35.0,500000,24,208000.0,À jour,Sikasso
+EMP-1205,Services,Femme,34.0,500000,6,422000.0,À jour,Kayes
+EMP-1206,Artisanat,Femme,58.0,500000,12,231000.0,À jour,Sikasso
+EMP-1207,Agriculture,Homme,41.0,500000,18,94000.0,En souffrance (> 90 j),Mopti
+EMP-1208,Artisanat,Homme,64.0,150000,12,68000.0,À jour,
+EMP-1209,Artisanat,Homme,40.0,300000,12,168000.0,À jour,Ségou
+EMP-1210,Commerce,Femme,27.0,300000,18,35000.0,En souffrance (> 90 j),Sikasso
+EMP-1211,Commerce,Homme,51.0,500000,18,425000.0,À jour,Sikasso
+EMP-1212,Commerce,Homme,50.0,1000000,12,442000.0,À jour,Sikasso
+EMP-1213,Agriculture,Femme,48.0,300000,18,80000.0,En retard (< 30 j),Mopti
+EMP-1214,Agriculture,Femme,26.0,300000,12,147000.0,En retard (< 30 j),Bamako
+EMP-1215,Commerce,Femme,63.0,150000,6,150000.0,Remboursé,Ségou
+EMP-1216,Commerce,Femme,53.0,300000,6,226000.0,À jour,Sikasso
+EMP-1217,Commerce,Femme,26.0,750000,18,219000.0,En retard (< 30 j),Kayes
+EMP-1218,Agriculture,Femme,40.0,750000,24,523000.0,À jour,Ségou
+EMP-1219,Agriculture,Femme,36.0,150000,6,123000.0,À jour,Bamako
+EMP-1220,Agriculture,Femme,33.0,300000,6,141000.0,En retard (< 30 j),Mopti
+EMP-1221,Artisanat,Femme,28.0,500000,6,70000.0,En souffrance (> 90 j),Kayes
+EMP-1222,Commerce,Homme,41.0,500000,18,500000.0,Remboursé,Sikasso
+EMP-1223,Commerce,Femme,41.0,1000000,12,145000.0,En souffrance (> 90 j),Sikasso
+EMP-1224,Agriculture,Homme,61.0,500000,6,227000.0,À jour,Ségou
+EMP-1225,Agriculture,Homme,45.0,500000,12,229000.0,En retard (< 30 j),Ségou
+EMP-1226,Agriculture,Femme,40.0,500000,12,318000.0,À jour,Ségou
+EMP-1227,Commerce,Homme,21.0,500000,6,308000.0,À jour,Sikasso
+EMP-1228,Commerce,Homme,27.0,750000,18,550000.0,À jour,Sikasso
+EMP-1229,Commerce,Femme,45.0,300000,12,143000.0,En retard (< 30 j),Bamako
+EMP-1230,Commerce,Femme,35.0,300000,12,146000.0,À jour,Bamako
+EMP-1231,Agriculture,Homme,55.0,150000,24,68000.0,En retard (< 30 j),Bamako
+EMP-1232,Agriculture,Femme,53.0,300000,18,255000.0,À jour,Mopti
+EMP-1233,Commerce,Femme,24.0,750000,6,357000.0,À jour,Sikasso
+EMP-1234,Commerce,Femme,59.0,150000,12,95000.0,À jour,Mopti
+EMP-1235,Commerce,Femme,45.0,750000,12,396000.0,À jour,Mopti
+EMP-1236,Agriculture,Homme,33.0,300000,18,255000.0,À jour,Ségou
+EMP-1237,Commerce,Femme,30.0,1000000,12,1000000.0,Remboursé,Kayes
+EMP-1238,Commerce,Homme,27.0,500000,12,331000.0,À jour,Bamako
+EMP-1239,Commerce,Homme,63.0,500000,6,203000.0,En retard (< 30 j),Sikasso
+EMP-1240,Commerce,Homme,41.0,300000,12,143000.0,À jour,Sikasso
+EMP-1241,Agriculture,Femme,62.0,500000,6,209000.0,En retard (< 30 j),Ségou
+EMP-1242,Artisanat,Femme,64.0,150000,6,26000.0,En souffrance (> 90 j),Sikasso
+EMP-1243,,Homme,42.0,750000,12,260000.0,En retard (< 30 j),Kayes
+EMP-1244,Commerce,Femme,33.0,1000000,12,745000.0,À jour,Bamako
+EMP-1245,Agriculture,Homme,39.0,300000,12,222000.0,À jour,Sikasso
+EMP-1246,Agriculture,Homme,,500000,12,448000.0,À jour,Mopti
+EMP-1247,,Femme,44.0,750000,12,488000.0,À jour,Sikasso
+EMP-1248,Agriculture,Femme,38.0,300000,24,54000.0,En souffrance (> 90 j),Bamako
+EMP-1249,Services,Homme,35.0,500000,24,245000.0,À jour,Mopti
